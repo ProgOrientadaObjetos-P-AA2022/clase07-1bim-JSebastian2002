@@ -12,7 +12,7 @@ public class Ejecutor {
     public static void main(String[] args) {
 
         // nombre del archivo
-        String nombreArchivo = "profesores.data";
+        String nombreArchivo = "profesores2.data";
         
         Profesor profesor1 = new Profesor("Tara Hernandez", "contratado");
         Profesor profesor2 = new Profesor("Gregory Walsh", "nombramiento");
